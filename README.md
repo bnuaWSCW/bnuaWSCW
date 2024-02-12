@@ -17,7 +17,7 @@ Hello, I am Brandon - a student in the class of Digital Technology in Western Sp
 - - -
 ## Why I study Digital Technology
 I'm interested in Digital Technology because I love its involvement with problem solving. In coding, you have mistakes, syntax, mistypes, miscommunication and barriers you must face. Although being prone to face problems, it feels something different when you have it all correct. Its like being hit with enough dopamine to be satisfied.
-I'm also interest in Digital Technology because I feel like this could be important to later occupations I might face.
+I'm also interested in Digital Technology because I feel like this could be important to later occupations I might face.
 - - - 
 ## Languages/Tools I Use
 - HTML, CSS
