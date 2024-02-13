@@ -2,13 +2,13 @@
 Hello, I am Brandon - a student in the class of Digital Technology in Western Springs College. My most common attribute that I love is sports. I play volleyball for club as well as for my school. I love volleyball's intensity and fast-paced environment. I additionally play rugby and golf - though I do not play on a serious note such as how I play volleyball. In relation to sports and volleyball, I have also come to like coding and Digital Technology as a school subject.
 - - - 
 ## Past Digital Projects
-- **3D TinkerCad Pā**
+- **[3D TinkerCad Pā](https://www.tinkercad.com/things/buVjigTP9OG-math-pa-project-brandon-nua/edit?returnTo=%2Fdashboard)**
 
 *In the past year, our maths project was to create a digital traditional Māori Pā. This included measurements scaled down using real life Pā's.*
-- **HMTL Digital Technology Project**
+- **[HMTL Digital Technology Project](https://replit.com/@sc-10tdg-mw-2023/Coding-Journal-BrandonNua)**
   
 *In previous Digital Technology projects, we looked at using HTML to create a website. Due to this I have some knowledge of using HMTL.*
-- **3D Printing Project**
+- **[3D Printing Project](https://www.tinkercad.com/things/0igFUqrAkCV-brandon-key-chain-13/edit?returnTo=%2Fdashboard%3Fcollection%3Ddesigns%26type%3Dtinkercad)**
   
 *In another Digital Technology project, we focused on designing and creating 3D models to print. My designs included my signature cap I always wear, a Pokeball and the superman logo. We had to keep in mind physical barriers 3D printers may come across and how to problem solve our designs if the printer couldn't accomplish our model. I especially had to keep this in mind while designing my signature cap. I tried a total of 3 times before successfully creating my cap.*
 - **Python Game Design**
